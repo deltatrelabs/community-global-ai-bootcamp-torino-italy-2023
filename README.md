@@ -5,7 +5,6 @@ and <a href="https://www.linkedin.com/in/gianni-rosa-gallina-b206a821/" target="
 
 <u>Track 1 Sessions</u> (in presence, in Italian)
 
-- **Keynote** (Global AI community & Microsoft)
 - **Azure AI and ONNX Runtime** (<a href="https://www.linkedin.com/in/maurobennici/" target="_blank">Mauro Bennici</a> - AI Architect & AI Ethicist)
     - [Slides]()
     - [Recording]()
@@ -36,8 +35,8 @@ and <a href="https://www.linkedin.com/in/gianni-rosa-gallina-b206a821/" target="
 
 <u>Extra</u>
 
-- **Keynote**
-  - [Recordings](https://www.youtube.com/watch?v=D7_RN5Gc-RE)
+- **Keynote** (Global AI community & Microsoft)
+  - [Recording](https://www.youtube.com/watch?v=D7_RN5Gc-RE)
 - **NVIDIA Developer Programs - GTC 2023**
   - [Slides](docs/NVIDIA%20Developer%20Programs%20-%20GTC.pdf)
   - [GTC Portal](https://www.nvidia.com/gtc/?ncid=ref-dev-171762-Deltatre)
