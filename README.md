@@ -6,7 +6,7 @@ and <a href="https://www.linkedin.com/in/gianni-rosa-gallina-b206a821/" target="
 <u>Track 1 Sessions</u> (in presence, in Italian)
 
 - **Azure AI and ONNX Runtime** (<a href="https://www.linkedin.com/in/maurobennici/" target="_blank">Mauro Bennici</a> - AI Architect & AI Ethicist)
-    - [Slides]()
+    - [Slides](docs/Azure%20ML%20and%20ONNX.pdf)
     - [Recording]()
 - **Making AI optimization part of every developer's toolkit** (<a href="https://www.linkedin.com/in/diego-fiori-/" target="_blank">Diego Fiori</a> - Co-founder & CTO at Nebuly)
     - [Slides]()
