@@ -7,22 +7,22 @@ and <a href="https://www.linkedin.com/in/gianni-rosa-gallina-b206a821/" target="
 
 - **Azure AI and ONNX Runtime** (<a href="https://www.linkedin.com/in/maurobennici/" target="_blank">Mauro Bennici</a> - AI Architect & AI Ethicist)
     - [Slides](docs/Azure%20ML%20and%20ONNX.pdf)
-    <!-- - [Recording]() -->
+    - [Recording](https://youtu.be/dsR4g9GMAnU)
 - **Making AI optimization part of every developer's toolkit** (<a href="https://www.linkedin.com/in/diego-fiori-/" target="_blank">Diego Fiori</a> - Co-founder & CTO at Nebuly)
     - [Slides](docs/Making%20AI%20optimization%20part%20of%20every%20developer's%20toolkit.pdf)
-    <!-- - [Recording]() -->
+    - [Recording](https://youtu.be/MND9RHdo00c)
 - **Costruire la città del futuro con Digital Twins e AI** (<a href="https://www.linkedin.com/in/alefesta/" target="_blank">Alessandro Festa</a> - Sr. Product Manager at SmartCow)
     - [Slides](docs/Costruire%20la%20citt%C3%A0%20del%20futuro%20con%20Digital%20Twins%20e%20AI.pdf)
-    <!-- - [Recording]() -->
+    - [Recording](https://youtu.be/vJu-1vvlOXY)
 - **Blackmirror - Creating your digital twin** (<a href="https://www.linkedin.com/in/sebastianogalazzo/" target="_blank">Sebastiano Galazzo</a> - Microsoft MVP, CTO at Synapsia-AI)
     - [Slides](docs/Blackmirror%20-%20Creating%20your%20digital%20twin.pdf)
-    <!-- - [Recording]() -->
+    - [Recording](https://youtu.be/zd2fIN4I5RY)
 - **Azure OpenAI's API** (<a href="https://www.linkedin.com/in/apomic80/" target="_blank">Michele Aponte</a> - Microsoft MVP, CTO at Ellycode and CEO at Blexin)
     - [Slides](./docs/Azure%20OpenAI%20API.pdf)
-    <!-- - [Recording]() -->
+    - [Recording](https://youtu.be/q17PZoYBqqo)
 - **Hands-on OpenVino** (<a href="https://www.linkedin.com/in/clemente-giorio-03a61811/" target="_blank">Clemente Giorio</a> & <a href="https://www.linkedin.com/in/gianni-rosa-gallina-b206a821/" target="_blank">Gianni Rosa Gallina</a> - Microsoft MVP, R&D Engineer at Deltatre)
     - [Slides](./docs/Hands-on%20OpenVINO.pdf)
-    <!-- - [Recording]() -->
+    - [Recording](https://youtu.be/p7cmZderDgA)
 
 <u>Track 2 Sessions</u> (pre-recorded, international speakers, in English)
 
